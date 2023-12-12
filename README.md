@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go from Ardan Labs Ultimate Go course
 - 💞️ I’m looking to collaborate on Go projects
 - 📫 How to reach me yishhai@gmail.com
-- X (Twiiter) [yishhai@gmail.com](https://twitter.com/yishhai)
+- X (Twiiter) [@yishhai](https://twitter.com/yishhai)
 
 <!---
 yishhai/yishhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
